@@ -115,3 +115,8 @@ header .header-text{
     width: 800px;
     height: 500px   ;
 }
+
+img{
+    width: 20%;
+    float: left
+}
